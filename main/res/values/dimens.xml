@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="upperPart">180dp</dimen>
+    <dimen name="miniPart">80dp</dimen>
+    <dimen name="marginLeft">15dp</dimen>
+    <dimen name="marginTop">15dp</dimen>
+    <dimen name="marginRight">15dp</dimen>
+    <dimen name="titleSize">25sp</dimen>
+    <dimen name="itemSize">20sp</dimen>
+</resources>
